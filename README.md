@@ -70,4 +70,4 @@ After scanning, it saves two files:
 
 ## License
 
-This project uses the MIT License.
+MIT License
